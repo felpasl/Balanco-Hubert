@@ -9,9 +9,9 @@ FROM=2020-04
 ```
 O diretório está preparado para usar o [VSCode Remote com docker](https://code.visualstudio.com/docs/remote/containers), 
 
-O código em python está em um jupter notebook `importBalanco.ipynb` 
+O código em python está em um Jupyter Notebook `importBalanco.ipynb` 
 
-as execuções de cada code block seguem em ordem com comentários
+As execuções de cada code block seguem em ordem com comentários
 
 1. Os arquivos sao baixados utilizando [Selenium em python](https://selenium-python.readthedocs.io/)
 2. O html é armazenado no diretorio `contashtml/` 
